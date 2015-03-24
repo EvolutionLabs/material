@@ -5,6 +5,10 @@ md-toolbar .md-button.md-THEME_NAME-theme.md-fab {
   background-color: white;
 }
 
+button.md-no-style {
+  color: '{{ foreground-1 }}';
+}
+
 .md-button.md-THEME_NAME-theme {
   border-radius: $button-border-radius;
 
