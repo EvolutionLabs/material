@@ -43,5 +43,8 @@
     "q": "^1.0.1",
     "stream-series": "^0.1.1",
     "through2": "^0.6.3"
+  },
+  "dependencies": {
+    "lodash": "~3.6.0"
   }
 }
