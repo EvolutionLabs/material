@@ -1,3 +1,6 @@
+# this is a fork where I attempt to have working fixes for angular/material issues in the ionic framework. It includes /dist/ files that can be used without having to 'gulp build' them every time.
+
+
 # Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
 
 [Material Design](https://www.google.com/design/spec/material-design/) is a specification for a
